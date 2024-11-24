@@ -4,3 +4,4 @@ pywhatkit==5.1
 selenium==3.141.0
 web3==5.23.1
 beautifulsoup4==4.9.3
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
